@@ -22,7 +22,7 @@ public class CustomerServiceController {
 	
 	@GetMapping("/checkCustomerService")
 	public String getCustomerService() {
-		return "UP";
+		return "UP.";
 	}
 
 }
